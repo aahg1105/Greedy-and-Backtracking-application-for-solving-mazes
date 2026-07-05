@@ -7,7 +7,7 @@ wn = turtle.Screen()
 wn.bgcolor("white")
 wn.title("Maze Solver with Turtle")
 wn.setup(width=800, height=800)
-pixels = 300
+pixels = 400
 
 """
 La siguiente lista "maze" crea el laberinto representado por caractares.
