@@ -15,7 +15,7 @@ La siguiente lista "maze" crea el laberinto representado por caractares.
 '#' representa las paredes y ' ' (espacio) representa el libre sendero
 La 'S' represanta el origen de partida y la 'G' representa el final del recorrido
 """
-
+"""
 maze = [
     "################################",
     "#S      #     #                #",
@@ -48,9 +48,9 @@ maze = [
     "# #             #              #",
     "################################"
 ]
+"""
 
 # Laberinto del pdf
-"""
 maze = [
     "############",
     "#S         #",
@@ -68,7 +68,6 @@ maze = [
     "#G#        #",
     "############"
 ]
-"""
 """"
 Lo siguiente crea la clase que permite dibujar el laberinto
 """
